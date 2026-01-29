@@ -22,7 +22,7 @@ repository: "03nipo1/03nipo1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_nikolaj.png"
   name             : "Nikolaj Noer Poulsen"
   pronouns         : ""  
   bio              : "An enthusiastic and motivated PhD Fellow with a research focus on causal questions in the economics of education and related fields"
