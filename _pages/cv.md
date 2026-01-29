@@ -1,4 +1,3 @@
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,56 +8,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Contact
+**Your Name**  
+Current position · PhD Fellow · Economics  
+Email: nipo@econ.au.dk  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Last updated: {{ "now" | date: "%B %d, %Y" }}*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research interests
+- Education Economics
+- Labor Economics
+- Economics of Inequality
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional experience
+- **2024–2025** Research Assistant, Aarhus University TrygFondens' Child Research Center  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+- **2025–2028** PhD Economics, Aarhus University  
+  - Supervisors: Professor Helena Skyt Nielsen and Professor Maria Humlum
+- **2021–2024** MSc Economics, Aarhus University
+- **2018–2021** BSc Public Policy, Aarhus University
+
+## Publications
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Working papers
+- “Title of working paper” (with Coauthor 1, Coauthor 2)
+
+## Work in progress
+- “Title of project”
+- “Title of project” (with Coauthor)
+
+## Research visits
+- **Fall 2023** Yale Department of Economics (Adviser: Professor X)  
+  - Grants: [Grant 1], [Grant 2]
+
+## Seminar, workshop, and conference presentations
+- **2025** Venue 1 (City), Venue 2 (City), Venue 3 (City)
+- **2024** Venue 1 (City), Venue 2 (City)
+- **2023** Venue 1 (City), Venue 2 (City)
+
+## Selected PhD courses
+- Course title (Institution / Instructor)
+- Course title (Institution / Instructor)
+
