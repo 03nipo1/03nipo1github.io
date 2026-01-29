@@ -27,7 +27,8 @@ Email: nipo@econ.au.dk
 - **2025–2028** PhD Economics, Aarhus University  
   - Supervisors: Professor Helena Skyt Nielsen and Professor Maria Humlum
 - **2021–2024** MSc Economics, Aarhus University
-- **2018–2021** BSc Public Policy, Aarhus University
+    - 2022 Exchange Programme UC3M Madrid
+- **2018–2021** BSc Economics, Aarhus University
 
 ## Publications
 <ul>
@@ -36,23 +37,19 @@ Email: nipo@econ.au.dk
 {% endfor %}
 </ul>
 
-## Working papers
-- “Title of working paper” (with Coauthor 1, Coauthor 2)
-
 ## Work in progress
-- “Title of project”
-- “Title of project” (with Coauthor)
+- “The Causal Effects of Study Grants on Student Labor Supply, Academic Achievement, and Well-Being” (With Maria Humlum, Rune Vejlin)
+- “Living Together, Learning Together? Peer Effects in Student Housing" (With Maria Humlun And Helena Skyt Nielsen
+- "Estimating the time from referral until in-home intervention and out-of-home placement in a timing-of-events framework" (With Michael Rosholm)
+- "Childhood and Adolescent Interventions in a Danish Setting: A Meta-Analysis of Evidence from TrygFonden’s Centre for Child Research" (With Stine Nyhus Larsen, Katrine Tølbøll and Michael Rosholm)
 
-## Research visits
-- **Fall 2023** Yale Department of Economics (Adviser: Professor X)  
-  - Grants: [Grant 1], [Grant 2]
 
 ## Seminar, workshop, and conference presentations
-- **2025** Venue 1 (City), Venue 2 (City), Venue 3 (City)
-- **2024** Venue 1 (City), Venue 2 (City)
-- **2023** Venue 1 (City), Venue 2 (City)
+- **2025** QERD (Kolding, Denmark)
+- **2024** DARE (Vilnius, Lithunia)
 
 ## Selected PhD courses
-- Course title (Institution / Instructor)
-- Course title (Institution / Instructor)
+- Advanced Econometrics (Aarhus University / Morten Ørregaard Nielsen, Phillip Heiler, Yana Petrova)
+- Education, Inequality, and Mobility (DGPE / Jesse Rothstein)
+- Human Capital and Wages (DGPE / Chris Taber)
 
