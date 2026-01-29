@@ -39,7 +39,7 @@ Email: nipo@econ.au.dk
 
 ## Work in progress
 - “The Causal Effects of Study Grants on Student Labor Supply, Academic Achievement, and Well-Being” (With Maria Humlum and Rune Vejlin)
-- “Living Together, Learning Together? Peer Effects in Student Housing" (With Maria Humlun and Helena Skyt Nielsen
+- “Living Together, Learning Together? Peer Effects in Student Housing" (With Maria Humlun and Helena Skyt Nielsen)
 - "Estimating the time from referral until in-home intervention and out-of-home placement in a timing-of-events framework" (With Michael Rosholm)
 - "Childhood and Adolescent Interventions in a Danish Setting: A Meta-Analysis of Evidence from TrygFonden’s Centre for Child Research" (With Stine Nyhus Larsen, Katrine Tølbøll and Michael Rosholm)
 
