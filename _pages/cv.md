@@ -10,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Nikolaj Noer Poulsen**  
 Current position · PhD Fellow · Economics  
 Email: nipo@econ.au.dk  
 
